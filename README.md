@@ -142,6 +142,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Invertase](https://invertase.io/authors-program) - Up to $250 per piece and up to $100 voucher for author of the month
   > Technical tutorials or blogs with code about Dart & flutter, Firebase, Firebase extensions, Software development, open source and web technologies
 
+- [LambdaTest](https://www.lambdatest.com/lambdatest-write-for-us) - $200 per piece
+  > Technical tutorials or blogs about Mobile and Web testing, Web Developmemnt, CI/CD, DevOps and Thought leadership.
+  
 - [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece
   > Technical tutorials with code. Not limited to LoginRadius products.
 
